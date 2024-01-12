@@ -1,0 +1,16 @@
+C:\Users\vincentborowiec\source\repos\TodoReminder\TodoReminder\obj\Debug\net8.0-windows\TodoReminder.MainForm.resources
+C:\Users\vincentborowiec\source\repos\TodoReminder\TodoReminder\obj\Debug\net8.0-windows\TodoReminder.csproj.GenerateResource.cache
+C:\Users\vincentborowiec\source\repos\TodoReminder\TodoReminder\obj\Debug\net8.0-windows\TodoReminder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vincentborowiec\source\repos\TodoReminder\TodoReminder\obj\Debug\net8.0-windows\TodoReminder.AssemblyInfoInputs.cache
+C:\Users\vincentborowiec\source\repos\TodoReminder\TodoReminder\obj\Debug\net8.0-windows\TodoReminder.AssemblyInfo.cs
+C:\Users\vincentborowiec\source\repos\TodoReminder\TodoReminder\obj\Debug\net8.0-windows\TodoReminder.csproj.CoreCompileInputs.cache
+C:\Users\vincentborowiec\source\repos\TodoReminder\TodoReminder\bin\Debug\net8.0-windows\TodoReminder.exe
+C:\Users\vincentborowiec\source\repos\TodoReminder\TodoReminder\bin\Debug\net8.0-windows\TodoReminder.deps.json
+C:\Users\vincentborowiec\source\repos\TodoReminder\TodoReminder\bin\Debug\net8.0-windows\TodoReminder.runtimeconfig.json
+C:\Users\vincentborowiec\source\repos\TodoReminder\TodoReminder\bin\Debug\net8.0-windows\TodoReminder.dll
+C:\Users\vincentborowiec\source\repos\TodoReminder\TodoReminder\bin\Debug\net8.0-windows\TodoReminder.pdb
+C:\Users\vincentborowiec\source\repos\TodoReminder\TodoReminder\obj\Debug\net8.0-windows\TodoReminder.dll
+C:\Users\vincentborowiec\source\repos\TodoReminder\TodoReminder\obj\Debug\net8.0-windows\refint\TodoReminder.dll
+C:\Users\vincentborowiec\source\repos\TodoReminder\TodoReminder\obj\Debug\net8.0-windows\TodoReminder.pdb
+C:\Users\vincentborowiec\source\repos\TodoReminder\TodoReminder\obj\Debug\net8.0-windows\TodoReminder.genruntimeconfig.cache
+C:\Users\vincentborowiec\source\repos\TodoReminder\TodoReminder\obj\Debug\net8.0-windows\ref\TodoReminder.dll
